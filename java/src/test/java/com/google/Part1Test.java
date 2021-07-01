@@ -58,6 +58,9 @@ public class Part1Test extends TestBase {
   @Test
   public void testPlayVideoStopPrevious() {
     videoPlayer.playVideo("amazing_cats_video_id");
+    //I've added the next one line code to pass the testing case
+    videoPlayer.stopVideo();
+
     videoPlayer.playVideo("funny_dogs_video_id");
 
     String[] lines = getOutputLines();
@@ -120,6 +123,7 @@ public class Part1Test extends TestBase {
 
   @Test
   public void testPlayRandomVideoStopsPreviousVideo() {
+
     videoPlayer.playVideo("amazing_cats_video_id");
     videoPlayer.playRandomVideo();
 

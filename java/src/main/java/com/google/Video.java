@@ -17,7 +17,7 @@ class Video {
   }
 
   /** Returns the title of the video. */
-  String getTitle() {
+  public String getTitle() {
     return title;
   }
 
