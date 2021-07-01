@@ -9,6 +9,9 @@ Tests cases passed sucessfull:
 
 ![image](https://user-images.githubusercontent.com/3922089/124113487-1ecdf980-da31-11eb-95b4-d0c70edd1901.png)
 ![image](https://user-images.githubusercontent.com/3922089/124126661-83448500-da40-11eb-9ef2-08ff8cf8b9f1.png)
+Making documentation
+![image](https://user-images.githubusercontent.com/3922089/124127020-de767780-da40-11eb-8d2d-9a1327562eaf.png)
+
 
 Feedback:
 - DRY (Don't Repead Yourself) My mate feedback recommend me not repeat the code and be more clean code
