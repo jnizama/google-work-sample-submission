@@ -1,5 +1,5 @@
 # Intership Experience UK Project Sample
-This reposity is for my Intership Experience UK
+This reposity is for my Intership Experience UK work (in day 2 and 3)
 
 My work related Work Sample Review & Reflection
 
